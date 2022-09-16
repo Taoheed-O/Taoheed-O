@@ -15,10 +15,6 @@
   Hi, Welcome to Tesla's Github
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="200"/>
-</div>
-
 ### :man_technologist: About Me :
 I am a Data analyst and Machine learning engineer and also a Software engineering enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
