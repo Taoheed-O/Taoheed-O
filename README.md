@@ -35,6 +35,7 @@ I am a Data analyst, Data Scientist and a Backend developer <img src="https://me
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="JN" width="40" height="40"/>&nbsp;
 </div>
 
+
 ### :fire: Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taoheed-O&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
