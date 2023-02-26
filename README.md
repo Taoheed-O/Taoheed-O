@@ -39,7 +39,6 @@ I am a Data analyst, Data Scientist and a Backend developer <img src="https://me
 ### :fire: Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taoheed-O&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 📈 GitHub stats:
 <div>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Taoheed-O&show_icons=true&theme=gotham" alt="Taoheed-O" />
