@@ -15,7 +15,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am a Data analyst, Data Scientist and a Backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Data Scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. I also do little backend with python Django framework.
 
 - :telescope: I’m currently learning software engineering and also trying to contribute to open source projects.
 
