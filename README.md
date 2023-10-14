@@ -17,8 +17,6 @@
 ### :man_technologist: About Me :
 I am a Data Scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. I also do little backend with python Django framework.
 
-- :telescope: I’m currently learning software engineering and also trying to contribute to open source projects.
-
 - :zap: I love **CODING** .
 
 - :mailbox:Contact Me: [![Linkedin Badge](https://img.shields.io/badge/-taoheed-oyeniyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taoheed-oyeniyi/)
