@@ -19,7 +19,7 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
 
 - :zap: I love **CODING** .
 
-- :mailbox:Contact Me: [![Linkedin Badge](https://img.shields.io/badge/-taoheed-oyeniyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taoheed-oyeniyi/)
+- :mailbox:Contact Me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taoheed-oyeniyi/)
 
 ### :hammer_and_wrench: Tools and Languages :
 <div>
